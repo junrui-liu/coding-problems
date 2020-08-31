@@ -21,10 +21,6 @@ def wifiZones(zones):
           without += a1-b1
         break
 
-
-
-
-
 def findPalindrome(s, num_q, pos_l, ch_l):
   s = [ch for ch in s]
   # two-letter palindrome
